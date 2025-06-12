@@ -1,0 +1,11 @@
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Unidad_3.Actividad_Práctica_1.Form1.resources
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.csproj.GenerateResource.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.pdb
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 1\Formulario 1\obj\Debug\Formulario 1.exe.config
