@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 5:44 p. m....
+1>------ Operación Compilar iniciada: Proyecto: Formulario 6, configuración: Debug Any CPU ------
+1>  Formulario 6 -> C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\bin\Debug\Formulario 6.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 5:44 p. m. y tardó 00.751 segundos ==========

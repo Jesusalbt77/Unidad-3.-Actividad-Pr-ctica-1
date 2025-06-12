@@ -1,0 +1,11 @@
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\bin\Debug\Formulario 6.exe.config
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\bin\Debug\Formulario 6.exe
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\bin\Debug\Formulario 6.pdb
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario_6.Form1.resources
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario_6.Properties.Resources.resources
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.csproj.GenerateResource.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.exe
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.pdb
+C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 6\Formulario 6\obj\Debug\Formulario 6.exe.config
